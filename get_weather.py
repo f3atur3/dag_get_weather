@@ -2,6 +2,7 @@
 # Команды git для управления репозиторием:
 #   инициализация:
 # git init
+# git remote add origin https://github.com/f3atur3/dag_get_weather.git
 # 
 #   создание ветки develop
 # git checkout -b develop
